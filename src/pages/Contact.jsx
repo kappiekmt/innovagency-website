@@ -94,7 +94,7 @@ export default function ContactPage({ navigate }) {
           <div className="contact-direct">
             <span className="eyebrow">Direct contact</span>
             <a href="mailto:hello@innovagency.com" className="contact-direct__email">hello@innovagency.com</a>
-            <span className="contact-direct__address">Keizersgracht 123, 1015 CJ Amsterdam</span>
+            <span className="contact-direct__address">Dorpstraat 26H, 7391 DE Twello — Tel. 085 303 39 60</span>
           </div>
         </div>
       </div>

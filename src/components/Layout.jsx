@@ -98,7 +98,7 @@ export function Footer({ navigate }) {
         <div className="footer__top">
           <div>
             <a href="#/home" onClick={(e) => { e.preventDefault(); navigate("home"); }}
-               style={{display: "inline-block", height: 36, width: 51}}>
+               style={{display: "inline-block", height: 48, width: 68}}>
               <img src="/assets/logo.png" alt="Innovagency"
                    style={{height: "100%", width: "100%", objectFit: "contain"}}/>
             </a>
@@ -128,10 +128,10 @@ export function Footer({ navigate }) {
           <div>
             <div className="footer__col-title">Contact</div>
             <ul className="footer__list">
-              <li className="footer__contact-item">Keizersgracht 123</li>
-              <li className="footer__contact-item">1015 CJ Amsterdam</li>
+              <li className="footer__contact-item">Dorpstraat 26H</li>
+              <li className="footer__contact-item">7391 DE Twello</li>
               <li><a href="mailto:hello@innovagency.com">hello@innovagency.com</a></li>
-              <li><a href="tel:+31201234567">+31 (0)20 123 45 67</a></li>
+              <li><a href="tel:+31853033960">085 303 39 60</a></li>
             </ul>
           </div>
 

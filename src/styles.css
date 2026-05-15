@@ -346,7 +346,7 @@ img { display: block; max-width: 100%; }
 }
 .nav__logo {
   display: inline-flex; align-items: center;
-  height: 56px; width: 56px;
+  height: 72px; width: 72px;
 }
 .nav__logo img { height: 100%; width: 100%; object-fit: contain; object-position: center; }
 .nav__links {
